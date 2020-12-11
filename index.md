@@ -14,7 +14,7 @@
 ## Dom Tchochoro
 
 ## 📖 About The Projeto
-It's a system web to manage a Pet Shop.
+It's a web system to manage a Pet Shop.
 
 ✔ Features 
 ------------
