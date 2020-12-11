@@ -2,14 +2,14 @@
 
 ```
 <h1 align="center">
-    <img alt="Dom Tchochoro" src=".github/Logo.png" width="200px" />
+    <img alt="Dom Tchochoro" src="https://i.imgur.com/Sf1ISZG.png" width="200px" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="Dom Tchochoro" src=".github/Login.jpg" width="70%">
-  <img alt="Dom Tchochoro" src=".github/Home.jpg" width="70%">
+  <img alt="Dom Tchochoro" src="https://i.imgur.com/XQEwsyX.jpg" width="70%">
+  <img alt="Dom Tchochoro" src="https://i.imgur.com/aNVTG9w.jpg" width="70%">
 </p>
 
 ## Dom Tchochoro
