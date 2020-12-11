@@ -39,7 +39,7 @@ It's a Mysql database, the script is named "db_gladia.sql".
 1. Download the code.
 2. Open the code in Microsoft Visual Studio.
 3. Run the script on MySql.
-4. Run.
+4. Run the web system.
 
 ## 💻 Layout
 You can see the design layout on the Figma link bellow: 
