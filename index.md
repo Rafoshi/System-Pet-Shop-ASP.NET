@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img alt="Dom Tchochoro" src="https://i.imgur.com/XQEwsyX.jpg" width="70%">
-  <img alt="Dom Tchochoro" src="https://i.imgur.com/aNVTG9w.jpg" width="70%">
+  <img alt="Dom Tchochoro" src="https://i.imgur.com/XQEwsyX.jpg" width="100%">
+  <img alt="Dom Tchochoro" src="https://i.imgur.com/aNVTG9w.jpg" width="100%">
 </p>
 
 ## Dom Tchochoro
