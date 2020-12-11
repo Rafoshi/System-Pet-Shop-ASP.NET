@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Dom Tchochoro" src=".github/Login.jpg" width="50%">
-  <img alt="Dom Tchochoro" src=".github/Login.jpg" width="50%">
+  <img alt="Dom Tchochoro" src=".github/Home.jpg" width="50%">
 </p>
 
 ## Dom Tchochoro
