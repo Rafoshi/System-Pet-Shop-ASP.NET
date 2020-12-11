@@ -19,7 +19,7 @@ It's a system web to manage a Pet Shop.
 - CRUD Mysql  <br/>
 - An agenda to schedule baths and shears for your dog 🐕<br/>
 - An point of sale <br/>
-- Svg animations
+- SVG animations
 --------------
 
 ## 🚀 Technologies
@@ -30,7 +30,7 @@ This project uses this features:
 - [Bootstrap](https://getbootstrap.com)
 
 ## ⚙ Database
-It's Mysql database, the script is named "db_gladia.sql".
+It's a Mysql database, the script is named "db_gladia.sql".
 
 ▶ Getting Started
 ---------------
