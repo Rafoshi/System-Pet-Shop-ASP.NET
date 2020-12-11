@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <img alt="Dom Tchochoro" src=".github/Login.jpg" width="50%">
-  <img alt="Dom Tchochoro" src=".github/Home.jpg" width="50%">
+  <img alt="Dom Tchochoro" src=".github/Login.jpg" width="70%">
+  <img alt="Dom Tchochoro" src=".github/Home.jpg" width="70%">
 </p>
 
 ## Dom Tchochoro
@@ -21,7 +21,6 @@ It's a system web to manage a Pet Shop.
 - An agenda to schedule baths and shears for your dog 🐕<br/>
 - An point of sale <br/>
 - SVG animations
---------------
 
 ## 🚀 Technologies
 This project uses this features:
