@@ -8,15 +8,39 @@
   <img alt="Dom Tchochoro" src=".github/Login.jpg" width="100%">
 </p>
 
-## Infinity Tech Us
+## Dom Tchochoro
 
 ## 📖 About The Projeto
-The website is a way to contract a system for your business, you can select between Web and Mobile.
+It's a system web to manage a Pet Shop.
+
+✔ Features 
+------------
+- Two Level of access <br/>
+- CRUD Mysql  <br/>
+- An agenda to schedule baths and shears for your dog 🐕<br/>
+- An point of sale <br/>
+- Svg animations
+--------------
+
+## 🚀 Technologies
+This project uses this features:
+
+- [Cleave.js](https://nosir.github.io/cleave.js/)
+- [MySql](https://www.nuget.org/packages/MySql.Data/)
+- [Bootstrap](https://getbootstrap.com)
 
 ## ⚙ Database
-Inside the folder database, there is a Mysql script to correctly run this application.
+It's Mysql database, the script is named "db_gladia.sql".
+
+▶ Getting Started
+---------------
+
+1. Download the code.
+2. Open the code in Microsoft Visual Studio.
+3. Run the script on MySql.
+4. Run.
 
 ## 💻 Layout
 You can see the design layout on the Figma link bellow: 
 <br>
-[Figma Link](https://www.figma.com/file/EPYH5k9xyXBLKE2ocpqo3a/Infinity-Php?node-id=57%3A15)
+[Figma Link](https://www.figma.com/file/UJFXTSXoJaS9ppkDxmkcHd/Asp-net?node-id=0%3A1)
