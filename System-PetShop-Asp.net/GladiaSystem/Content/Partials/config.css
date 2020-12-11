@@ -1,0 +1,164 @@
+﻿.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.textarea-block-min .up-img {
+    border: 1px dashed var(--border-dotted-color);
+    padding: 19%;
+    height: 13rem;
+    resize: none;
+    border-radius: 8px;
+    background-color: var(--send-img);
+}
+
+
+.change-photo {
+    background-color: red;
+    height: 100%;
+    width: 80%;
+    padding: 5%;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: white;
+    display: block;
+}
+
+.big-container {
+    border: 1px solid var(--border-color);
+    background-color: white;
+    height: 95%;
+    width: 80%;
+    margin-top: 2%;
+    padding: 5%;
+    border-radius: 8px;
+}
+.upload-img {
+    padding-bottom: 1%;
+    margin-left: 4%;
+    
+}
+#att-button {
+    margin-top: 60%;
+}
+#delete-button {
+    margin-top: 14%;
+    background-color: var(--delete-button-color);
+}
+
+#delete-button:hover {
+    background-color: var( --hover-button-color-delete);
+    transition: all 1s;
+}
+
+.sub-button{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    margin-top: 10%;
+}
+
+.sub-button:hover{
+    background-color: var(--hover-button-color);
+    transition: all 1s;
+}
+
+.avatar-img {
+    max-width: 100%;
+    height: auto;
+    padding: 3%;
+    width: 50%;
+    border-radius: 180px;
+}
+
+.desc-email{
+    font: 400 1.8rem Mulish;
+    color: var(--primary-text-color);
+    
+}
+
+.text-email {
+
+    font: 600 1.8rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.avatar-name {
+    padding-bottom: 15%;
+    font: 700 1.8rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.info {
+    display: grid;
+    place-items: center;
+}
+.change-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divide-hr {
+    margin-top: -2.3%;
+    margin-bottom: 10%;
+    border: 0.4px solid var(--border-color);
+    border-color: var(--border-color);
+    background-color: var(--border-color);
+}
+
+.link-a {
+    font: 400 1.8rem Mulish;
+    color: var(--primary-text-color);
+    text-decoration: none;
+}
+
+#activated-down {
+    margin-bottom: 2%;
+    border-bottom: 2px solid var(--border-down-color);
+}
+
+a,
+a:hover,
+a::selection{
+    text-decoration: none;
+    color: var(--primary-text-color);
+}
+
+@media (min-width: 1297px) {
+
+    .sub-button {
+        margin-top: 12%;
+        padding: 3%;
+        display: flex;
+        align-items: center;
+        font-size: 1.6rem;
+    }
+
+    .container {
+        flex-wrap: nowrap;
+        align-items: normal;        
+    }
+
+    .big-container {
+        margin-top: 0;
+        width: 114%;
+    }
+
+    .change-photo {
+        margin-right: 70px;
+    }
+
+    #delete-button {
+        margin-top: 8%;
+    }
+
+    #att-button {
+        margin-top: 38%;
+    }
+    #delete-button{
+        margin-top: 0%;
+    }
+}

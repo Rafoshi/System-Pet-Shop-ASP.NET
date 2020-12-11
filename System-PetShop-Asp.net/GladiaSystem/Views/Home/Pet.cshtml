@@ -1,0 +1,96 @@
+﻿@model GladiaSystem.Models.Pet
+@{
+    ViewBag.Title = "Cadastro Pet";
+    ViewBag.Selected = "pet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    @using (Html.BeginForm("RegisterPet", "Home", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Dados do Pet</legend>
+            <hr class="form-hr" />
+            @if (ViewData["Error"] != null)
+            {
+                <div>
+                    <p class="error-red"><strong>Erro:</strong> @ViewData["Error"].ToString()</p>
+                </div>
+            }
+            @if (TempData["Success"] != null)
+            {
+                <div>
+                    <p class="success-green"><strong>Sucesso:</strong> @TempData["Success"].ToString()</p>
+                </div>
+            }
+            <div class="input-block">
+                <label for="name">Nome do Pet</label>
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                <label for="owner">
+                    Dono do Pet
+                </label>
+                @Html.EditorFor(model => model.Owner)
+                @Html.ValidationMessageFor(m => m.Owner, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                <label for="phone">
+                    Telefone do Dono (xx xxxx-xxxx)
+                </label>
+                @Html.EditorFor(model => model.Tel, "", new { @class = "phone", @name = "phone" })
+                @Html.ValidationMessageFor(m => m.Tel, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                <label for="port">
+                    Porte do animal
+                </label>
+                <div class="form-check">
+                    <div class="radio-hover">
+                        <label for="pequeno" class="small-text">Pequeno</label>
+                        @{string Pequeno = ViewContext.ViewData.TemplateInfo.GetFullHtmlFieldId("Pequeno");}
+                        @Html.RadioButtonFor(model => model.Size, "Pequeno", new { id = Pequeno, name = "size", value = "Pequeno", @class = "label-radial" })
+                    </div>
+                </div>
+                <div class="form-check">
+                    <div class="radio-hover">
+                        <label for="medio" class="medium-text">Médio</label>
+                        @{string Medio = ViewContext.ViewData.TemplateInfo.GetFullHtmlFieldId("Medio");}
+                        @Html.RadioButtonFor(model => model.Size, "Medio", new { id = Medio, name = "size", value = "Medio", @class = "label-radial" })
+                    </div>
+                </div>
+                <div class="form-check">
+                    <div class="radio-hover">
+                        <label for="grande" class="bigger-text">Grande</label>
+                        @{string Grande = ViewContext.ViewData.TemplateInfo.GetFullHtmlFieldId("Grande");}
+                        @Html.RadioButtonFor(model => model.Size, "Grande", new { id = Grande, name = "size", value = "Grande", @class = "label-radial" })
+                    </div>
+                </div>
+            <div class="input-block">
+                <label id="email-label" for="avatar">
+                    Descrição (Opcional)
+                </label>
+                @Html.TextAreaFor(model => model.Desc)
+                @Html.ValidationMessageFor(m => m.Desc, "", new { @class = "error-red" })
+            </div>
+
+            <button class="sub-button" type="submit">Cadastrar</button>
+        </fieldset>
+        @section Scripts{
+            @Scripts.Render("~/bundles/jqueryval");
+        }
+    }
+</main>
+
+<script src="~/Scripts/cleave.js"></script>
+<script src="~/Scripts/cleave-phone.br.js"></script>
+<script>
+    var cleave = new Cleave('#Tel', {
+        phone: true,
+        phoneRegionCode: 'BR'
+    });
+</script>

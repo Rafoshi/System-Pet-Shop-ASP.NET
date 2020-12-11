@@ -1,0 +1,90 @@
+﻿@model GladiaSystem.Models.Pos
+@{
+    ViewBag.Title = "POS";
+    ViewBag.Selected = "pos";
+    Layout = null;
+
+    List<GladiaSystem.Models.Pos> allPos = ViewBag.AllPos;
+}
+@Styles.Render("~/Content/css")
+@Styles.Render("~/Content/root.css")
+@Styles.Render("~/Content/Partials/sidebar.css")
+@Scripts.Render("~/bundles/modernizr")
+@Styles.Render("~/Content/fontawesome.css")
+@Styles.Render("~/Content/Partials/header.css")
+@Styles.Render("~/Content/Partials/form.css")
+@Styles.Render("~/Content/Partials/config.css")
+@Styles.Render("~/Content/Partials/agenda.css")
+@Styles.Render("~/Content/Partials/pos.css")
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+@if (Session["access"] == null)
+{
+    <script>alert('Você não tem acesso ou não está logado')</script>
+    <script>window.location.href="localhost/error/"</script>
+}
+
+<title>PDV - Dom Tchochoro</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<main class="page-content">
+    <header class="min-header">
+        @if (Session["access"] == "1")
+        {
+            <a href="@Url.Action("Home", "Home")"><img src="~/Content/Imagens/send-back.svg" alt="Send back" class="send-img" /></a>
+        }
+        else
+        {
+            <a href="@Url.Action("Logout", "Home")"><img src="~/Content/Imagens/x-circle.svg" alt="Close" /></a>
+        }
+        <span></span>
+        <small id="personName">@Session["name"]</small>
+        <img class="img-fluid avatar-picture" src=@ViewBag.Img />
+    </header>
+
+    <div class="container">
+        @using (Html.BeginForm("ProductGet", "Home", FormMethod.Post, new { @class = "form-none form-pos" }))
+        {
+        <div class="input-container">
+            @Html.EditorFor(m => m.QuantOrder, new { htmlAttributes = new { @class = "quant-order" } })
+            @Html.TextBoxFor(m => m.Product.Name, new { placeholder = "Digite o nome do produto", @class = "input-add" })
+
+            <button class="bar-code"><i class="fa fa-barcode code-bar fa-5x"></i></button>
+        </div>
+        }
+    <div class="info-container">
+        <div class="container-payment">
+            <p class="info-text">Informações da compra </p>
+            @{
+                int totalPrice = 0;
+            }
+            @{ foreach (GladiaSystem.Models.Pos item in allPos)
+                {
+                    <div class="item-text">
+                        <div class="about-text">
+                            <p class="opacity-text">@item.QuantOrder X Cod @item.ProdID</p>
+                            <p class="item-name">@item.ProdName</p>
+                        </div>
+                        <p class="price">R$ @item.ProdPrice</p>
+                        <a href='@Url.Action("DeletePos", "Home", new { codPos = item.ID})'>
+                            <img src="~/Content/Imagens/dif-delete.svg" class="delete" alt="delete" />
+                        </a>
+                    </div>
+                    <hr class="divide" />
+                    totalPrice += item.ProdPrice * item.QuantOrder;
+                }
+            }
+
+        </div>
+        <div class="container-payment values">
+            <p class="tot-pay">Total a pagar: </p>
+            <p class="tot-pay">R$ @totalPrice</p>
+        </div>
+
+        <a href='@Url.Action("Payment", "Home", new { price = totalPrice})'>
+            <button class="next-button" type="submit">
+                Pagar pedido
+                <img src="~/Content/Imagens/arrow-right.svg" alt="Arrow right" class="arrow" />
+            </button>
+        </a>
+    </div>
+    </div>
+</main>

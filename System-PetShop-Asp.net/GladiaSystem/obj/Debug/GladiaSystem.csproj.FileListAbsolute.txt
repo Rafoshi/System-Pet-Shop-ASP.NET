@@ -1,0 +1,1767 @@
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\source\repos\GladiaSystem\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\GitHub Clones\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\vitor\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\GitHub\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM NOVISSIMO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM MAIS QUE NOVO\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM resolve\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP ITU\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Memory.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\xunit.core.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Memory.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\xunit.core.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\System-PetShop-Asp.net-6a02e5ff5301741c91883c826b4c4896702b76fb\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP ITU NEW\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP NET\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\TCM ASP\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\ASP NET TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\ASP TCM\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Vitor\Desktop\NEW ASP HOVER\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll.config
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\GladiaSystem.pdb
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.exe.config
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csc.rsp
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.exe.config
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\csi.rsp
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Console.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.exe.config
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\vbc.rsp
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\WebGrease.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Zstandard.Net.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.pdb
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Google.Protobuf.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\MySql.Data.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Renci.SshNet.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Buffers.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Memory.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Numerics.Vectors.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Helpers.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Mvc.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Optimization.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.Razor.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\xunit.abstractions.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\xunit.core.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csprojAssemblyReference.cache
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.csproj.CopyComplete
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.dll
+C:\Users\Ioshi\Desktop\aaa\System-PetShop-Asp.net\GladiaSystem\obj\Debug\GladiaSystem.pdb

@@ -1,0 +1,58 @@
+﻿header {
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 8%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2{
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+header span {
+    width: 1px;
+    height: 40px;
+    background: var(--border-color);
+    margin-right: -7%;
+}
+
+header #personName {
+    margin-right: -10%;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--primary-text-color);
+}
+
+header .avatar-picture{
+    width: 60px;
+    height: 60px;
+    border: 2px solid var(--border-color);
+    border-radius: 180px;
+    padding: 3px;
+}
+
+
+@media (min-width: 1297px) {
+    #header-margin {
+        margin-top: 0;
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 5%;
+    }
+
+    header {
+        margin-top: 0;
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 1%;
+    }
+
+    main {
+        max-width: 90%;
+    }
+}

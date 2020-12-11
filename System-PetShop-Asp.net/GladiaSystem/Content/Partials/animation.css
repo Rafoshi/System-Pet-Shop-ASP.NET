@@ -1,0 +1,319 @@
+﻿.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    animation: slide-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+.val {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin-left: 500px;
+}
+
+#cat {
+    animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+#Tail {
+    animation: ball 2.4s alternate-reverse linear infinite;
+    transform-origin: top;
+    transform-box: fill-box;
+}
+
+#Ball {
+    animation: ball 2.4s alternate-reverse linear infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#levitate {
+    animation: levitate 3s ease-in-out infinite alternate both;
+}
+
+#Cloud-blue {
+    animation: clouds 3s ease-in-out infinite alternate-reverse both;
+}
+
+#Cloud-white {
+    animation: clouds 3s ease-in-out infinite alternate both;
+}
+
+#TailDog {
+    animation: tailDog 0.8s ease-in-out infinite alternate both;
+    transform-origin: bottom;
+    transform-box: fill-box;
+}
+
+#TailEffectRight {
+    animation: TailEffectRight 0.8s ease-in-out infinite alternate both;
+}
+
+#TailEffectLeft {
+    animation: TailEffectRight 0.8s ease-in-out infinite alternate 0.06s both;
+}
+
+#Bone {
+    animation: Bone 3s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Fur {
+    animation: Fur 3s ease-in-out infinite alternate both;
+}
+
+#Leaf {
+    animation: Leaf 3s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#WomanMouth, #MenMouth {
+    animation: WomanMouth 1s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#WomanEyebrows, #MenEyeBrows {
+    animation: WomanMouth 1s ease-in-out infinite alternate-reverse both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#MenHair {
+    animation: MenHair 1s ease-in-out infinite alternate-reverse both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Lamp {
+    animation: Lamp 1s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Hat {
+    animation: Lamp 0.7s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Tie {
+    animation: Tie 2s ease-in-out infinite alternate both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Steam1,#Steam2,#Steam3 {
+    animation: Steam 5s alternate linear infinite both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#EyebrowsSettings {
+    animation: WomanMouth 1s ease-in-out infinite alternate-reverse both;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+@keyframes Steam {
+    0% {
+        -webkit-transform: rotateZ(0);
+        transform: rotateZ(0);
+    }
+
+    100% {
+        -webkit-transform: rotateZ(360deg);
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes slide-in-left {
+    0% {
+        transform: translateX(-1000px);
+        opacity: 0;
+    }
+
+    75% {
+        transform: translateX(50px);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(0px);
+    }
+}
+
+
+@keyframes Tie {
+    from,to {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(-10deg);
+    }
+}
+
+@keyframes Hat {
+    from {
+        transform: rotate(-20deg);
+    }
+
+    to {
+        transform: rotate(20deg);
+    }
+}
+
+@keyframes Lamp {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-5deg);
+    }
+}
+
+@keyframes MenHair {
+    from,to {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-1px);
+    }
+}
+
+@keyframes WomanMouth {
+    from,to {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(0.5px);
+    }
+}
+
+@keyframes Leaf {
+    from {
+        transform: rotate(-1deg);
+    }
+
+    to {
+        transform: rotate(1deg);
+    }
+}
+
+@keyframes Fur {
+    from {
+        transform: scale(1.02);
+    }
+
+    to {
+        transform: scale(1.011);
+    }
+}
+
+@keyframes Bone {
+    from,to {
+        transform: rotate(15deg);
+    }
+
+    50% {
+        transform: rotate(-15deg);
+    }
+}
+
+@keyframes TailEffectLeft {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-1deg);
+    }
+}
+
+@keyframes TailEffectRight {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(1deg);
+    }
+}
+
+@keyframes tailDog {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-3deg);
+    }
+}
+
+@keyframes clouds {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(40px);
+    }
+}
+
+@keyframes tail {
+    0% {
+        -webkit-transform: rotateZ(0);
+        transform: rotateZ(0);
+    }
+
+    100% {
+        -webkit-transform: rotateZ(-40deg);
+        transform: rotateZ(-40deg);
+    }
+}
+
+@keyframes levitate {
+    0% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    100% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+}
+
+
+@keyframes ball {
+    0% {
+        -webkit-transform: rotateZ(0);
+        transform: rotateZ(0);
+    }
+
+    100% {
+        -webkit-transform: rotateZ(-20deg);
+        transform: rotateZ(-20deg);
+    }
+}
+
+@keyframes text-focus-in {
+    0% {
+        -webkit-filter: blur(12px);
+        filter: blur(12px);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-filter: blur(0px);
+        filter: blur(0px);
+        opacity: 1;
+    }
+}

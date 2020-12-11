@@ -1,0 +1,69 @@
+﻿@model GladiaSystem.Models.BigAgenda
+@{
+    ViewBag.Title = "Agenda";
+    List<GladiaSystem.Models.Agenda> agendaAll = ViewBag.AllAgenda;
+
+}
+@Styles.Render("~/Content/agenda.css")
+
+<div id="create-button" class="create cta">
+    <img src="~/Content/Imagens/plus.png" id="plus">
+    <a id="a-agenda" href="@Url.Action("AgendaForm", "Home")">
+        <span id="create-text">Criar</span>
+    </a>
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval");
+}
+
+<table class="table" id="tableBorder">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ClientName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescAgenda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pet.Pet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Day)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hour)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (GladiaSystem.Models.Agenda item in agendaAll)
+    {
+        <tr>
+            <td>
+                <p class="overflow">@Html.DisplayFor(modelItem => item.ClientName)</p>
+            </td>
+            <td>
+                <p class="overflow"> @Html.DisplayFor(modelItem => item.DescAgenda)</p>
+            </td>
+            <td>
+                <p class="overflow"> @Html.DisplayFor(modelItem => item.ShowName) </p>
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Day)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hour)
+            </td>
+            <td>
+                <a href='@Url.Action("DeleteAgenda", "Home", new { codAgenda = item.ID })'>
+                    <img src='~/Content/Imagens/delete.svg' />
+                </a>
+                <a href='@Url.Action("ShowPets", "Home", new { petName = item.ShowName })'>
+                    <img src='~/Content/Imagens/external-link.svg' />
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,69 @@
+﻿@model GladiaSystem.Models.Agenda
+@{
+    ViewBag.Title = "Formulário agenda";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<GladiaSystem.Models.Pet> pets = ViewBag.ListPet;
+}
+<main>
+    @using (Html.BeginForm("CreateAgenda", "Home", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Dados do Agendamento</legend>
+            <hr class="form-hr" />
+            @if (TempData.ContainsKey("Error"))
+            {
+                <div>
+                    <p class="error-red"><strong>Erro:</strong> @TempData["Error"].ToString()</p>
+                </div>
+            }
+            @if (TempData.ContainsKey("Success"))
+            {
+                <div>
+                    <p class="success-green"><strong>Sucesso:</strong> @TempData["Success"].ToString()</p>
+                </div>
+            }
+            <div class="input-block">
+                <label for="client">Nome do Cliente</label>
+                @Html.EditorFor(model => model.ClientName)
+                @Html.ValidationMessageFor(m => m.ClientName, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                @Html.LabelFor(model => model.Pet.ID)
+                <select id="Pet.ID" name="Pet.ID" class="form-control combo-box">
+                    @foreach (GladiaSystem.Models.Pet item in pets)
+                    {
+                        <option value="@item.ID"
+                                @if (item.ID == Model.Pet.ID) { @: selected
+                                }>
+                            @item.Name
+                        </option>
+                    }
+
+                </select>
+            </div>
+
+
+            <div class="input-block">
+                <label for="day">Descrição</label>
+                @Html.EditorFor(model => model.DescAgenda)
+                @Html.ValidationMessageFor(m => m.DescAgenda, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                <label for="day">Dia</label>
+                @Html.EditorFor(model => model.Day)
+                @Html.ValidationMessageFor(m => m.Day, "", new { @class = "error-red" })
+            </div>
+
+            <div class="input-block">
+                <label for="pet">Hora do agendamento</label>
+                @Html.EditorFor(model => model.Hour)
+                @Html.ValidationMessageFor(m => m.Hour, "", new { @class = "error-red" })
+            </div>
+
+            <button class="sub-button" type="submit">Criar</button>
+
+        </fieldset>
+    }
+</main>

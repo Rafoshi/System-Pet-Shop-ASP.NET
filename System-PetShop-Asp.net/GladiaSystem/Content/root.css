@@ -1,0 +1,84 @@
+﻿:root {
+    --base-color: #F7F8FC;
+    --sidebar-color: #363740;
+    --sidebar-selected-color: #3F4049;
+    --send-img: #E8E9EF;
+    --button-color: #DADFFF;
+    --delete-button-color: #FFDADA;
+    --primary-text-color: #252733;
+    --secondary-text-color: #9C98A6;
+    --tertiary-text-color: #C5C7CD;
+    --sidebar-text-color: #A4A6B3;
+    --sidebar-text-hover-color: #DDE2FF;
+    --border-color: #DFE0EB;
+    --border-dotted-color: #363740;
+    --border-button-color-cash: #9DE185;
+    --border-button-color-cretid: #4D5AEA;
+    --border-button-color-debit: #6D75CD;
+    --border-button-color-vale: #EB58C2;
+    --input-color: #FAFAFC;
+    --send-img-text: #595C70;
+    --border-down-color: #2F80ED;
+    --error-text-color: #FF4242;
+    --success-text-color: #3CBA39;
+    --arrow-hover-button-color: #abb4ecab;
+    --create-button-color: #95cbff;
+    --chage-texto-color: #34ce6b;
+    --hover-button-color: #B5BFFF;
+    --hover-button-color-delete: #F7B1B1;
+}
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Mulish';
+}
+
+/*No media querie colocar o font size correto 62,5%*/
+
+html {
+    font-size: 50%;
+}
+
+body{
+    background-color: var(--base-color);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --base-color: #2C2F39;
+        --sidebar-color: #363740;
+        --sidebar-selected-color: #3F4049;
+        --send-img: #E8E9EF;
+        --button-color: #8293fd;
+        --delete-button-color: #FFDADA;
+        --primary-text-color: #dedede;
+        --secondary-text-color: #989898;
+        --tertiary-text-color: #989898;
+        --sidebar-text-color: #A4A6B3;
+        --sidebar-text-hover-color: #DDE2FF;
+        --border-color: #DFE0EB;
+        --border-dotted-color: #363740;
+        --border-button-color-cash: #9DE185;
+        --border-buuton-color-cretid: #4D5AEA;
+        --border-button-color-debit: #6D75CD;
+        --border-button-color-vale: #EB58C2;
+        --input-color: #FAFAFC;
+        --send-img-text: #595C70;
+        --border-down-color: #2F80ED;
+    }
+}
+
+h2{
+    color: var(--primary-text-color);
+}
+
+@media (min-width: 1297px) {
+    html {
+        font-size: 80%;
+    }
+
+    .sidebar{
+        margin-top: 8px;
+    }
+}

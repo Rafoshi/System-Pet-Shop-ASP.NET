@@ -1,0 +1,82 @@
+﻿.graphs {
+    width: 90vw;
+    margin-right: auto;
+    margin-left: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "a b" "c d";
+    grid-gap: 60px;
+}
+
+.firt-graph {
+    margin-top: 3vh;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    height: 35vh;
+    grid-area: a;
+}
+
+.second-graph {
+    margin-top: 3vh;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    height: 35vh;
+    grid-area: b;
+}
+
+.third-graph {
+    margin-top: 3vh;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    height: 35vh;
+    grid-area: c;
+}
+
+.fourth-graph {
+    display: grid;
+    justify-content: center;
+    margin-top: 3vh;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    height: 35vh;
+    grid-area: d;
+}
+
+.prod-title {
+    padding-top: 4%;
+    font: 600 2.1rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.product-submit {
+    width: 90px;
+    height: 90px;
+    border-radius: 30px;
+    border-style: none;
+    border: 3px solid var(--border-color);
+    background-color: transparent;
+    color: var(--primary-text-color);
+    font: 700 2.4rem Mulish;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.product-submit:hover{
+    background-color: var(--arrow-hover-button-color);
+}
+
+
+.img-arrow {
+    width: 30px;
+}
+
+@media (min-width: 730px) {
+    .graphs {
+        width: 60vw;
+    }
+
+}

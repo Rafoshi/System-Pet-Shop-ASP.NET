@@ -1,0 +1,100 @@
+﻿@model GladiaSystem.Models.Product
+@{
+    ViewBag.Title = "Lista de produtos";
+    ViewBag.Selected = "productList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    List<int> IDs = ViewBag.IDs;
+    List<string> NameList = ViewBag.Name;
+    List<string> Desc = ViewBag.Desc;
+    List<int> PriceList = ViewBag.Price;
+    List<int> QuantList = ViewBag.Quant;
+    List<int> QuantMinList = ViewBag.QuantMin;
+    List<string> Brands = ViewBag.Brand;
+    List<string> Images = ViewBag.Images;
+    List<string> CategoryNames = ViewBag.CategoryName;
+
+    List<GladiaSystem.Models.Product> products = ViewBag.AllProduct;
+}
+
+@Styles.Render("~/Content/Partials/List.css")
+
+<div class="input-group mb-3" id="input-prod">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="basic-addon1"><img src="~/Content/Imagens/search.svg" alt="Search" class="search-img" /></span>
+    </div>
+    @using (Html.BeginForm("SearchProduct", "Home", FormMethod.Post, new { @class = "form-none" }))
+    {
+        @Html.TextBoxFor(m => m.Name, new { placeholder = "Digite o nome do produto", @class = "form-control search" })
+    }
+</div>
+
+<div class="card-grid">
+    @{if (IDs != null & NameList != null & QuantList != null)
+        {
+            for (int i = 0; i < IDs.Count; i++)
+            {
+            <div class="icon-photo" id="small-card">
+                <div class="info">
+                    <img src=@Images[i] alt="Osso" class="avatar-img" />
+                    <p id="title-prod">@NameList[i]</p>
+                    <p id="marc-prod">@Brands[i]</p>
+                    <p id="desc-prod">@Desc[i]</p>
+                    <p id="tp-prod">@CategoryNames[i]</p>
+                    <p id="price-prod">R$ @PriceList[i]</p>
+                    <p id="quant-prod">Quantidade: @QuantList[i]</p>
+                    @{if (QuantList[i] <= QuantMinList[i])
+                        {
+                            <p class="min-prod red">Qtd Min: @QuantMinList[i]</p>
+                        }
+                        else
+                        {
+                            <p class="min-prod">Qtd Min: @QuantMinList[i]</p>
+                        }
+                    }
+                </div>
+         
+
+                <a href='@Url.Action("ProdDelete", "Home", new { @class="sub-button button-product-list", ProductID = IDs[i] })'>
+                    <button class="sub-button" type="submit">
+                        Deletar
+                    </button>
+                </a>
+            </div>
+            }
+        }
+        else
+        {
+            foreach (GladiaSystem.Models.Product item in products)
+            {
+            <div class="icon-photo" id="small-card">
+                <div class="info">
+                    <img src="@item.img" alt="Osso" class="avatar-img" />
+                    <p id="title-prod">@item.Name</p>
+                    <p id="marc-prod">@item.Brand</p>
+                    <p id="desc-prod">@item.Desc</p>
+                    <p id="tp-prod">@item.Category.name</p>
+                    <p id="price-prod">R$ @item.Price</p>
+                    <p id="quant-prod">Quant: @item.Quant</p>
+                    @{
+                        if (item.Quant <= item.QuantMin)
+                        {
+                            <p class="red min-prod">Min: @item.QuantMin</p>
+                        }
+                        else
+                        {
+                            <p class="min-prod">Min: @item.QuantMin</p>
+                        }
+                    }
+                </div>
+
+                <a href='@Url.Action("ProdDelete", "Home", new { @class="sub-button button-product-list", ProductID = item.ID })'>
+                    <button class="sub-button" type="submit">
+                        Deletar
+                    </button>
+                </a>
+            </div>
+            }
+        }
+    }
+</div> 

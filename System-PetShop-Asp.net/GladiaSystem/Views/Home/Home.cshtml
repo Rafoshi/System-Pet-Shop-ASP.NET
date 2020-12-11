@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+    ViewBag.Selected = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<GladiaSystem.Models.Product> categoryQuant = ViewBag.CategoryQuant;
+}
+
+
+
+<div class="graphs">
+    <div class="firt-graph" id="firt-graph">
+    </div>
+
+    <div class="second-graph" id="second-graph">
+    </div>
+
+    <div class="third-graph" id="third-graph">
+    </div>
+
+    <div class="fourth-graph">
+        <p class="prod-title">Tudo sobre produtos</p>
+        <a class="product-submit" href="@Url.Action("ProductList", "Home")">
+            <img class="img-arrow" src="~/Content/Imagens/arrow.svg" alt="Seta">
+        </a>
+    </div>
+</div>
+
+
+<script>
+
+    google.charts.load('current', { packages: ['corechart', 'bar'] });
+    google.charts.setOnLoadCallback(drawTitleSubtitle);
+
+    function drawTitleSubtitle() {
+
+
+        var data = google.visualization.arrayToDataTable([
+            ['', '', { role: 'style' }],
+            ['Pequeno', @ViewBag.PortSmall, '#b87333'],            // RGB value
+            ['Médio', @ViewBag.PortMedium, 'silver'],
+            ['Grande', @ViewBag.PortLarge, 'silver'],    // English color name
+        ]);
+
+        var materialOptions = {
+            chart: {
+                title: 'Percentual de cada porte',
+                subtitle: '',
+                width: 600,
+                height: 400,
+            },
+            hAxis: {
+                title: 'Total Population',
+                minValue: 0,
+            },
+            vAxis: {
+                title: 'City'
+            },
+            bars: 'horizontal'
+        };
+
+        var materialChart = new google.charts.Bar(document.getElementById('firt-graph'));
+        materialChart.draw(data, materialOptions);
+    }
+
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(drawChart);
+    google.charts.setOnLoadCallback(pet);
+
+    function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+            ['Category', 'Product per category'],
+            @{ 
+                foreach(GladiaSystem.Models.Product item in categoryQuant)
+                {
+                    <text>
+                        ['@item.CategoryName', @item.Quant],
+                    </text>
+                }
+            }
+            ['', 0]
+        ]);
+
+        var options = {
+            title: 'Percentual de Categoria'
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('second-graph'));
+
+        chart.draw(data, options);
+    }
+
+    function pet() {
+        var data = google.visualization.arrayToDataTable([
+            ['Pets', 'Pets per Agenda'],
+            ['Administrador', @ViewBag.Administrador],
+            ['Usuário Comum', @ViewBag.CommonUser]
+        ]);
+
+        var options = {
+            title: 'Pessoas cadastradas',
+            pieHole: 0.4,
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('third-graph'));
+        chart.draw(data, options);
+    }
+</script>

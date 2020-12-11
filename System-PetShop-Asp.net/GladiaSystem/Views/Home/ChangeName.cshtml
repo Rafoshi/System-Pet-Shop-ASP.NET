@@ -1,0 +1,60 @@
+﻿@model GladiaSystem.Models.User
+@{
+    ViewBag.Title = "Configurações ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="change-photo" id="small-card">
+        <div class="info">
+            <img alt="Avatar photo" class="avatar-img" src=@ViewBag.Img />
+            <p class="avatar-name">@Session["name"]</p>
+            <p class="text-email">Email </p>
+            <p class="desc-email">@Session["email"]</p>
+        </div>
+        @using (Html.BeginForm("ChangePhotoPassword", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "border-less" }))
+        {
+
+            <div class="textarea-block-min">
+                <div class="up-img">
+                    <img src="~/Content/Imagens/up-img.svg" id="up-photo" alt="Upload img" />
+
+                    <label for="files" class="btn">Envie sua foto</label>
+                    <input id="files" type="file" name="imgFile" alt="Enviar" style="visibility: hidden;" required>
+                </div>
+            </div>
+            <button class="sub-button" type="submit">Cadastrar</button>
+            @Scripts.Render("~/bundles/jqueryval");
+        }
+
+    </div>
+    <div class="big-container" id="bigger-card">
+        <div class="change-container">
+            <a href="@Url.Action("ChangePassword", "Home")"
+               class="link-a"><span>Alterar senha </span></a>
+            <a href="@Url.Action("ChangeName", "Home")"
+               id="activated-down"
+               class="link-a"><span>Alterar nome</span></a>
+            <a href="@Url.Action("DeleteAccount", "Home")"
+               class="link-a"><span class="change">Apagar conta</span></a>
+        </div>
+        <hr class="divide-hr" />
+
+        @using (Html.BeginForm("ChangeNam", "Home", FormMethod.Post))
+        {
+            <div class="input-block">
+                <label for="nome">Nome</label>
+                @Html.EditorFor(model => model.name)
+                @Html.ValidationMessageFor(m => m.name, "", new { @class = "error-red" })
+            </div>
+            <div class="input-block">
+                <label for="confNome">Confirmar nome</label>
+                @Html.EditorFor(model => model.confName)
+                @Html.ValidationMessageFor(m => m.confName, "", new { @class = "error-red" })
+            </div>
+
+            <button class="sub-button" id="att-button" type="submit">Atualizar</button>
+
+        }
+    </div>
+</div>

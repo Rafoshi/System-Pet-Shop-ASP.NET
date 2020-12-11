@@ -1,0 +1,680 @@
+﻿.arrow {
+    padding-left: 3%;
+}
+
+.next-button:hover .arrow {
+    animation: arrow 1s ease alternate both;
+}
+
+.finish-button:hover .arrow {
+    animation: arrow 1s ease alternate both;
+}
+
+.btn-final:hover .arrow {
+    animation: arrow 1s ease alternate both;
+}
+
+#TotalValue{
+    display:none;
+}
+
+@keyframes arrow {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(90%);
+    }
+}
+
+.next-button:hover {
+    background-color: var(--hover-button-color);
+    transition: all 1s;
+}
+
+.finish-button {
+    background-color: var(--hover-button-color);
+    transition: all 1s;
+}
+
+.btn-final {
+    background-color: var(--hover-button-color);
+    transition: all 1s;
+}
+
+.container-payment {
+    width: 96vw;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1%;
+}
+
+.content {
+    margin: 4%;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.values {
+    margin-top: 4%;
+    padding-left: 1%;
+}
+
+.simple-text {
+    color: var(--primary-text-color);
+    font: 400 1.6rem Mulish;
+}
+
+.tot-pay {
+    color: var(--primary-text-color);
+    font: 600 1.8rem Mulish;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    margin: 0px 2% 7% 3%;
+    margin-bottom: 10%;
+    align-items: center;
+}
+
+.input-add {
+    font: 500 1.6rem Mulish;
+    border-radius: 0;
+    width: 85vw;
+    height: 53px;
+    padding: 4%;
+    border-top-color: var(--border-color);
+    border-bottom-color: var(--border-color);
+    border-left-color: white;
+    border-right-color: white;
+}
+
+.quant-order {
+    font: 500 1.6rem Mulish;
+    padding: 4%;
+    height: 53px;
+    border-radius: 8% 0 0 8%;
+    width: 15%;
+}
+.bar-code {
+    background-color: white;
+    border: 1px solid var(--border-color);
+    padding: 4%;
+    height: 53px;
+    border-radius: 0 8% 8% 0;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.code-bar {
+    height: 53px;
+    margin-top: 50%;
+}
+.info-text {
+    font: 700 1.8rem Mulish;
+    color: var( --primary-text-color);
+    margin: 0;
+}
+
+.divide {
+    border: 0.2px solid var(--border-color);
+    margin: 0;
+}
+
+.item-text {
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+}
+
+.item-name {
+    margin-top: 2%;
+    color: var(--primary-text-color);
+    font: 400 2rem Mulish;
+    width: 290px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.price {
+    margin-top: auto;
+    color: var(--primary-text-color);
+    font: 400 2rem Mulish
+}
+
+.finish-button {
+    width: 100%;
+    border-radius: 8px;
+    border-style: none;
+    color: var(--primary-text-color);
+    background-color: var(--button-color);
+    font: 700 2.4rem Mulish;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    margin-top: 30%;
+    margin-bottom: 10%;
+}
+
+.next-button {
+    width: 100%;
+    border-radius: 8px;
+    border-style: none;
+    color: var(--primary-text-color);
+    background-color: var(--button-color);
+    font: 700 2.4rem Mulish;
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+    align-items: center;
+    margin-top: 3%;
+    transition: all 0.2s;
+}
+
+.opacity-text {
+    color: var(--tertiary-text-color);
+    font: 400 1.5rem Mulish;
+}
+
+.delete {
+    margin-top: auto;
+}
+
+.button-container {
+    width: 100%;
+    margin-bottom: 3%;
+    justify-content: center;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 5%;
+    display: grid;
+    grid-template-rows: 100px 100px;
+    grid-gap: 4%;
+    grid-template-areas: "d cd" "cc v";
+}
+
+.btn-card {
+    grid-area: cc;
+    background-color: white;
+    border: 1px solid var(--border-buuton-color-cretid);
+    border-radius: 8px;
+    font: 400 2.2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.btn-cardDebit {
+    background-color: white;
+    border: 1px solid var(--border-button-color-debit);
+    border-radius: 8px;
+    font: 400 2.2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.vale {
+    background-color: white;
+    border: 1px solid var( --border-button-color-vale);
+    border-radius: 8px;
+    font: 400 2.2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.container-default {
+    margin-bottom: 3%;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 5%;
+}
+
+.container-up {
+    margin-bottom: 3%;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 5%;
+}
+
+.separeted {
+    display: flex;
+    justify-content: space-between;
+}
+
+.value-buy {
+    font: 700 2.4rem Mulish;
+    color: var(--primary-text-color);
+    margin-bottom: 50%;
+}
+
+.sub-money {
+    font: 600 2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.value-pay {
+    font: 600 2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.title-pay {
+    font: 700 2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+#currency-field {
+    background-color: white;
+}
+
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+}
+
+.data-title {
+    font: 400 2.4rem Mulish;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.container-receipt {
+    margin: 2%;
+    padding: 4%;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
+.center-text {
+    font: 600 1.8rem Mulish;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.content-receipt {
+    margin-top: 2%;
+}
+
+.text-price {
+    font: 700 2.4rem Mulish;
+    display: flex;
+    justify-content: space-between;
+    margin: 4%;
+}
+
+.logo-icon {
+    height: 70px;
+    width: 70px;
+}
+
+/*Payment*/
+
+section {
+    margin-top: 0%;
+    display: grid;
+    height: 76vh;
+    grid-template-columns: 1fr 63vw;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: "a b" "c b" "d e" "f e" "g g";
+    grid-gap: 2px;
+}
+
+.money {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid var(--border-button-color-cash);
+    border-radius: 8px;
+    grid-area: d;
+    font: 500 1.8rem Mulish;
+    height: 100%;
+    color: var(--primary-text-color);
+    margin-bottom: 1%;
+}
+
+.money:hover{
+    cursor: pointer;
+}
+
+.credit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid lightorange;
+    border-radius: 8px;
+    grid-area: f;
+    font: 500 1.8rem Mulish;
+    height: 100%;
+    color: var(--primary-text-color);
+    margin-bottom: 1%;
+}
+
+.credit:hover {
+    cursor: pointer;
+}
+
+.debit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid var(--border-button-color-debit);
+    border-radius: 8px;
+    grid-area: d;
+    font: 500 1.8rem Mulish;
+    height: 100%;
+    color: var(--primary-text-color);
+    margin-bottom: 1%;
+}
+
+.debit:hover{
+    cursor: pointer;
+}
+
+.val {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid var(--border-button-color-vale);
+    border-radius: 8px;
+    grid-area: f;
+    font: 500 1.8rem Mulish;
+    height: 100%;
+    color: var(--primary-text-color);
+    margin-bottom: 1%;
+}
+
+.val:hover{
+    cursor:pointer;
+}
+
+.buy-value {
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    grid-area: b;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 4fr 1fr;
+    grid-template-areas: "b b" "s t";
+}
+
+.money-change {
+    background-color: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    grid-area: e;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.total-value {
+    grid-area: g;
+}
+
+#buy-value {
+    grid-area: b;
+    margin-left: 25px;
+    margin-top: 20px;
+    font: 600 2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+#sub-value {
+    grid-area: s;
+    margin-left: 35px;
+    font: 500 2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+#total-value {
+    grid-area: t;
+    justify-self: center;
+    font: 500 2rem Mulish;
+}
+
+#change {
+    font: 600 2rem Mulish;
+    color: var(--primary-text-color);
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#change-text {
+    font: 500 1.8rem Mulish;
+    color: var(--primary-text-color);
+    margin-left: 30px;
+}
+
+#change-total {
+    font: 600 2rem Mulish;
+    color: var(--primary-text-color);
+    margin-left: 30px;
+    margin-bottom: 16px;
+}
+
+#paid {
+    font: 700 2.6rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.min-header {
+    margin-bottom: 1%;
+}
+
+.inpbutton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.green {
+    color: var(--chage-texto-color);
+}
+
+#Paid {
+    height: 70px;
+    width: 40%;
+    color: var(--secondary-text-color);
+}
+
+.btn-final {
+    height: 70px;
+    border-style: none;
+    width: 35%;
+    border-radius: 8px;
+    background-color: var(--button-color);
+    font: 700 1.8rem Mulish;
+    color: var(--primary-text-color);
+}
+
+
+.credit {
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid orange;
+    overflow: hidden;
+}
+
+.bar-buttom {
+    height: 100px;
+    padding-top: 100px;
+}
+
+.btn-verify {
+    border-style: none;
+    border-radius: 8px;
+    background-color: var(--button-color);
+    font: 700 1.8rem Mulish;
+    color: var(--primary-text-color);
+    height: 70px;
+}
+
+.form-payment{
+    width:100% !important;
+}
+
+@media (min-width: 1297px) {
+    .btn-verify {
+        border-style: none;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: 10%;
+        margin-left: 1%;
+        border-radius: 8px;
+        background-color: var(--button-color);
+        font: 700 1.8rem Mulish;
+        color: var(--primary-text-color);
+        height: 70px;
+    }
+    .container {
+        flex-wrap: wrap;
+        align-items: normal;
+    }
+
+    .container-payment {
+        width: 80vw;
+        height: auto;
+    }
+
+    .finish-button {
+        margin-top: 15%;
+        padding: 3%;
+        font: 700 2.1rem Mulish;
+        margin-bottom: 0;
+        margin-top: 2%;
+    }
+
+    .next-button {
+        width: 80vw;
+        margin-top: 15%;
+        padding: 2%;
+        font: 700 2.1rem Mulish;
+        margin-bottom: 0;
+        margin-top: 1%;
+        margin-bottom: 30px;
+    }
+
+    .input-add {
+        width: 77vw;
+        padding: 3%;
+        height: 30px;
+    }
+
+    .button-container {
+        background-color: inherit;
+        border: none;
+    }
+
+    .values {
+        margin-top: 1%;
+        height: 30%;
+        min-height: 97px;
+    }
+    .input-container {
+        margin: 0;
+        margin-bottom: 2%;
+    }
+    .quant-order {
+        padding: 3%;
+        height: 30px;
+    }
+
+    .bar-code {
+        padding: 3%;
+        height: 30px;
+        margin-top: 0;
+    }
+    .code-bar {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 1297px) {
+    section {
+        display: initial;
+        margin: 2%;
+        padding: 1%;
+    }
+
+    .money-change {
+        margin-top: 4%;
+        margin-bottom: 4%;
+        display: grid;
+        grid-gap: 110px;
+        height: 302px;
+    }
+
+    #change {
+        margin-bottom: -181px;
+    }
+
+    #change-text {
+        margin-top: -64px;
+    }
+
+    .val {
+        margin-bottom: 4%;
+    }
+
+    .money {
+        display: inline-flex;
+        height: 10%;
+        width: 47%;
+        /*margin-left: 5%;*/
+    }
+
+    .credit {
+        display: inline-flex;
+        height: 10%;
+        width: 47%;
+         margin-left: 5%;
+    }
+
+    .debit {
+        display: inline-flex;
+        height: 10%;
+        width: 47%;
+    }
+
+    .val {
+        display: inline-flex;
+        height: 10%;
+        width: 47%;
+        margin-left: 5%;
+    }
+
+    .buy-value {
+        grid-gap: 220px;
+        grid-template-rows: 1fr 1fr;
+    }
+
+    #sub-value {
+        margin-left: 30px;
+    }
+
+    .page-receipt {
+        max-width: 69%;
+    }
+}

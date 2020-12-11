@@ -1,0 +1,247 @@
+﻿@using GladiaSystem.Database;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Dom Tchochoro</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/root.css")
+    @Styles.Render("~/Content/Partials/sidebar.css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/fontawesome.css")
+    @Styles.Render("~/Content/Partials/header.css")
+    @Styles.Render("~/Content/Partials/form.css")
+    @Styles.Render("~/Content/Partials/config.css")
+    @Styles.Render("~/Content/Partials/agenda.css")
+    @Styles.Render("~/Content/Partials/home.css")
+    <link rel="icon" href="/dom.ico" type="image/x-icon">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    @if (Session["access"] == null || Session["access"] == "0")
+    {
+        <script>alert('Você não tem acesso ou não está logado')</script>
+        <script>window.location.href = "localhost/error/"</script>
+    }
+    <div class="page-wrapper chiller-theme toggled">
+        <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
+            <img src="~/Content/Imagens/menu.svg" alt="Menu" class="btn-dark" />
+        </a>
+        <nav id="sidebar" class="sidebar-wrapper">
+            <div class="sidebar-content">
+                <div class="sidebar-brand">
+                    <img src="~/Content/Imagens/logo.svg" alt="Company logo" />
+                    <div id="close-sidebar">
+                        <img src="~/Content/Imagens/x.svg" alt="Close button" class="close" />
+                    </div>
+                </div>
+                <div class="sidebar-menu">
+                    <ul>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "Home")
+                            {
+                                <a id="activated">
+                                    <img src="~/Content/Imagens/home.svg" alt="Schedule" />
+                                    <span>Home</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Home", "Home")">
+                                    <img src="~/Content/Imagens/home-default.svg" alt="Schedule" />
+                                    <span>Home</span>
+                                </a>
+
+                            }
+                        </li>
+
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "agenda")
+                            {
+                                <a id="activated">
+                                    <img src="~/Content/Imagens/agenda-selected.svg" alt="Schedule" />
+                                    <span>Agenda</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Agenda", "Home")">
+                                    <img src="~/Content/Imagens/agenda.svg" alt="Schedule" />
+                                    <span>Agenda</span>
+                                </a>
+
+                            }
+                        </li>
+
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "pdv")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/dollar-selected.svg" alt="Pdv dollar" />
+                                    <span>PDV</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("POS", "Home")">
+                                    <img src="~/Content/Imagens/dollar.svg" alt="Pdv dollar" />
+                                    <span>PDV</span>
+                                </a>
+                            }
+
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "func")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/funcregister-selected.svg" alt="Register official" />
+                                    <span>Cadastrar Funcionário</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Employee", "Home")">
+                                    <img src="~/Content/Imagens/funcregister.svg" alt="Register official" />
+                                    <span>Cadastrar Funcionário</span>
+                                </a>
+                            }
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "adm")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/admregist-selected.svg" alt="Regiter Adm" />
+                                    <span>Cadastrar Admin</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Adm", "Home")">
+                                    <img src="~/Content/Imagens/admregist.svg" alt="Regiter Adm" />
+                                    <span>Cadastrar Admin</span>
+                                </a>
+                            }
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "pet")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/func-pet-selected.svg" alt="Register pet" />
+                                    <span>Cadastrar Pet</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Pet", "Home")">
+                                    <img src="~/Content/Imagens/func-pet.svg" alt="Register pet" />
+                                    <span>Cadastrar Pet</span>
+                                </a>
+
+                            }
+
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "category")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/cad-cate-selected.svg" alt="Register category" />
+                                    <span>Cadastrar Categoria</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("Category", "Home")">
+                                    <img src="~/Content/Imagens/cad-cate.svg" alt="Register category" />
+                                    <span>Cadastrar Categoria</span>
+                                </a>
+                            }
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "product")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/cad-prod-selected.svg" alt="Register category" />
+                                    <span>Cadastrar Produto</span>
+                                </a>
+                            }
+                            else
+                            {
+
+                                <a href="@Url.Action("Product", "Home")">
+                                    <img src="~/Content/Imagens/cad-prod.svg" alt="Register category" />
+                                    <span>Cadastrar Produto</span>
+                                </a>
+                            }
+                            <hr />
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "config")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/eng-selected.svg" alt="Register category" />
+                                    <span>Configurações</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("ChangePassword", "Home")">
+                                    <img src="~/Content/Imagens/eng.svg" alt="Register category" />
+                                    <span>Configurações</span>
+                                </a>
+                            }
+
+                        </li>
+                        <li class="sidebar">
+                            @if (ViewBag.Selected == "language")
+                            {
+                                <a id="activated" href="#">
+                                    <img src="~/Content/Imagens/ido-selected.svg" alt="Register category" />
+                                    <span>Idiomas</span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="#">
+                                    <img src="~/Content/Imagens/ido.svg" alt="Register category" />
+                                    <span>Idiomas</span>
+                                </a>
+
+                            }
+
+                        </li>
+                        <li class="sidebar">
+                            <a href="@Url.Action("Logout", "Home")">
+                                <img src="~/Content/Imagens/log-out.svg" alt="Log out" />
+                                <span>Sair</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        @{string session = (string)Session["userID"];
+            Queries queries = new Queries();
+            ViewBag.Img = queries.GetUserImages(session);
+        }
+        <main class="page-content">
+            <header>
+                <h2>@ViewBag.Title</h2>
+                <span></span>
+                <small id="personName">@Session["name"]</small>
+                <img class="img-fluid avatar-picture" src=@ViewBag.Img />
+            </header>
+            @RenderBody()
+        </main>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @Scripts.Render("~/Scripts/scripts.js")
+</body>
+</html>

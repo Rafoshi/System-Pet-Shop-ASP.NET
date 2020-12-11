@@ -1,0 +1,111 @@
+﻿@model GladiaSystem.Models.Product
+@{
+    ViewBag.Title = "Cadastrar produto";
+    ViewBag.Selected = "product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<GladiaSystem.Models.Category> categories = ViewBag.ListCategory;
+}
+
+<main>
+    @using (Html.BeginForm("RegisterProd", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <fieldset>
+            <legend>Dados do produto</legend>
+            <hr class="form-hr" />
+
+            @if (ViewData["Error"] != null)
+            {
+                <div>
+                    <p class="error-red"><strong>Erro:</strong> @ViewData["Error"].ToString()</p>
+                </div>}
+            @if (TempData["Success"] != null)
+            {
+                <div>
+                    <p class="success-green"><strong>Sucesso:</strong> @TempData["Success"].ToString()</p>
+                </div>
+            }
+
+            <div class="input-block">
+                <label for="name">Nome completo</label>
+                @Html.EditorFor(model => model.Name)
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                <label for="avatar">
+                    Marca
+                </label>
+                @Html.EditorFor(model => model.Brand)
+                @Html.ValidationMessageFor(m => m.Brand, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                @Html.LabelFor(model => model.Category)
+                <select id="Category.ID" name="Category.ID" class="form-control combo-box">
+                    @foreach (GladiaSystem.Models.Category item in categories)
+                    {
+                        <option value="@item.ID"
+                                @if (item.ID == Model.Category.ID) { @: selected
+                                }>
+                            @item.name
+                        </option>
+                    }
+
+                </select>
+            </div>
+            <div class="input-block">
+                <label for="currency-field">Preço</label>
+                @Html.EditorFor(model => model.Price)
+                @Html.ValidationMessageFor(m => m.Price, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                <label for="quant">
+                    Quantidade
+                </label>
+                @Html.EditorFor(model => model.Quant)
+                @Html.ValidationMessageFor(m => m.Quant, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                <label for="quant">
+                    Quantidade mínima
+                </label>
+                @Html.EditorFor(model => model.QuantMin)
+                @Html.ValidationMessageFor(m => m.QuantMin, "", new { @class = "text-danger" })
+
+                <div class="textarea-block">
+                    <div id="up-img-tiny" class="up-img">
+                        <img src="~/Content/Imagens/up-img.svg" id="up-photo" alt="Upload img" />
+
+                        <label for="files" class="btn">Envie sua foto</label>
+                        <input id="files" type="file" name="imgFile" alt="Enviar" style="visibility: hidden;" required>
+                    </div>
+                </div>
+
+                <div class="input-block">
+                    <label id="email-label" for="avatar">
+                        Descrição
+                    </label>
+                    @Html.TextAreaFor(model => model.Desc)
+                    @Html.ValidationMessageFor(m => m.Desc, "", new { @class = "error-red" })
+                </div>
+
+
+            </div>
+            <button class="sub-button" type="submit">Cadastrar</button>
+        </fieldset>
+        @section Scripts{
+            @Scripts.Render("~/bundles/jqueryval");
+        }
+    }
+</main>
+
+<script src="~/Scripts/cleave.js"></script>
+<script src="~/Scripts/cleave-phone.br.js"></script>
+<script>
+    var cleaveNumeral = new Cleave('#Price', {
+        numeral: true,
+        numeralThousandsGroupStyle: 'thousand'
+    });
+</script>

@@ -1,0 +1,57 @@
+﻿@model GladiaSystem.Models.Pet
+@{
+    ViewBag.Title = "Informações do pet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<main>
+    <form action="/" method="post">
+        <fieldset>
+            <legend>Dados do Pet</legend>
+            <hr class="form-hr" />
+            <div class="input-block">
+                <label>
+                    @Html.DisplayNameFor(model => model.Name)
+                </label>
+                <p class="sub-name">
+                    @Html.DisplayFor(model => model.Name)
+                </p>
+            </div>
+            <div class="input-block">
+                <label>
+                    @Html.DisplayNameFor(model => model.Owner)
+                </label>
+                <p class="sub-name">
+                    @Html.DisplayFor(model => model.Owner)
+                </p>
+            </div>
+            <div class="input-block">
+                <label>
+                    @Html.DisplayNameFor(model => model.Tel)
+                </label>
+                <p class="sub-name">
+                    @Html.DisplayFor(model => model.Tel)
+                </p>
+
+            </div>
+            <div class="input-block">
+                <label>
+                    @Html.DisplayNameFor(model => model.Size)
+                </label>
+                <p class="sub-name">
+                    @Html.DisplayFor(model => model.Size)
+                </p>
+            </div>
+            <div class="input-block">
+                <label>
+                    @Html.DisplayNameFor(model => model.Desc)
+                </label>
+                <p class="sub-name">
+                    @Html.DisplayFor(model => model.Desc)
+                </p>
+            </div>
+                @Html.ActionLink("Voltar", "Agenda", "Home", null, new { @class = "sub-button", id="button-pet"})
+        </fieldset>
+    </form>
+</main>

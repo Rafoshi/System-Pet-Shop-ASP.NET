@@ -1,0 +1,114 @@
+﻿@model GladiaSystem.Models.Pos
+@{
+    ViewBag.Title = "Payment";
+    ViewBag.Selected = "payment";
+    Layout = null;
+}
+
+@Styles.Render("~/Content/css")
+@Styles.Render("~/Content/root.css")
+@Styles.Render("~/Content/Partials/sidebar.css")
+@Scripts.Render("~/bundles/modernizr")
+@Styles.Render("~/Content/fontawesome.css")
+@Styles.Render("~/Content/Partials/pos.css")
+@Styles.Render("~/Content/Partials/header.css")
+@Styles.Render("~/Content/Partials/form.css")
+@Styles.Render("~/Content/Partials/config.css")
+@Styles.Render("~/Content/Partials/agenda.css")
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+
+@if (Session["access"] == null)
+{
+    <script>alert('Você não tem acesso ou não está logado')</script>
+    <script>window.location.href="localhost/error/"</script>
+}
+
+<title>Caixa - Dom Tchochoro</title>
+<main class="page-content">
+    <header id="header-margin">
+        <a href="@Url.Action("POS", "Home")"><img src="~/Content/Imagens/send-back.svg" alt="Send back" class="send-img" /></a>
+        <span></span>
+        <small id="personName">@Session["name"]</small>
+        <img class="img-fluid avatar-picture" src=@ViewBag.Img />
+    </header>
+
+    <section>
+        <div class="type-payment">
+            <a>
+                <div class="money">
+                    <span id="money">Dinheiro</span>
+                </div>
+            </a>
+
+            <a href="@Url.Action("OtherPayments","Home", new { price = ViewBag.Price })">
+                <div class="credit">
+                    <span id="credit">Cartão de Crétido</span>
+                </div>
+            </a>
+
+            <a href="@Url.Action("OtherPayments","Home", new { price = ViewBag.Price })">
+                <div class="debit">
+                    <span id="debit">Cartão de Débito</span>
+                </div>
+            </a>
+
+            <a href="@Url.Action("OtherPayments","Home", new { price = ViewBag.Price })">
+                <div class="val">
+                    <span id="val">Vale</span>
+                </div>
+            </a>
+        </div>
+        <div class="buy-value">
+            <span id="buy-value">Valor da compra</span>
+            <span id="sub-value">Subtotal: R$ @ViewBag.Price @ViewBag.Paid</span>
+
+
+            @{ if (ViewBag.Green != null)
+                {
+                    if (ViewBag.Green)
+                    {
+                        <span id="total-value" class="green">
+                            Valor Pago: R$ @ViewBag.Paid
+                        </span>
+                    }
+                    else
+                    {
+                        <span id="total-value">
+                            Valor Pago: R$ @ViewBag.Paid
+                        </span>
+                    }
+                }
+                else
+                {
+                    <span id="total-value">
+                        Valor Pago: R$ @ViewBag.Paid
+                    </span>
+                }
+            }
+
+        </div>
+        <div class="money-change">
+            <span id="change">Troco</span>
+            <span id="change-text">Devolva o troco para continuar</span>
+            <span id="change-total">Valor do troco: R$ @ViewBag.Change</span>
+        </div>
+        <div class="total-value">
+            <p id="paid">Valor pago:</p>
+            <div class="inpbutton">
+                @using (Html.BeginForm("Change", "Home", FormMethod.Post, new { @class = "form-none form-payment" }))
+                {
+                    @Html.EditorFor(m => m.Paid, new { htmlAttributes = new { @value = ViewBag.Paid } })
+                    @Html.TextBoxFor(m => m.TotalValue, new { @Value=ViewBag.Price})
+                    <button type="submit" id="btn-verify" class="btn-verify">Verificar Troco</button>
+
+                    <a href='@Url.Action("Receipt", "Home")'>
+                        <button class="btn-final" type="button">
+                            Finalizar
+                            <img src="~/Content/Imagens/arrow-right.svg" alt="Arrow right" class="arrow" />
+                        </button>
+                    </a>
+                }
+            </div>
+        </div>
+    </section>
+</main>

@@ -1,0 +1,123 @@
+﻿.none {
+    /*Css for fix card grid dont change*/
+}
+
+.avatar-img {
+    display: flex;
+    justify-content: center;
+}
+
+.card-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#small-card {
+    margin-top: 2%;
+}
+
+.avatar-img {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    justify-self: flex-start;
+}
+
+#title-prod {
+    margin-top: 5%;
+    font: 700 3rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.icon-photo {
+    height: 100%;
+    width: 80%;
+    padding: 5%;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: white;
+    display: block;
+}
+
+#marc-prod {
+    margin-top: 2%;
+    font: 300 2.1rem Mulish;
+    color: var(--tertiary-text-color);
+}
+
+#desc-prod {
+    font: 400 2.1rem Mulish;
+    color: var(--tertiary-text-color);
+}
+
+#tp-prod {
+    margin-top: 2%;
+    font: 600 2.1rem Mulish;
+    color: var(--primary-text-color);
+}
+
+#price-prod {
+    margin-top: 2%;
+    font: 700 2.2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+#quant-prod {
+    font: 700 2.2rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.min-prod {
+    font: 700 2.2rem Mulish;
+}
+
+.sub-button {
+    margin-top: 30%;
+}
+
+.search-img {
+    height: 12px;
+    width: 12px;
+}
+
+#input-prod {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    padding: 10%;
+}
+
+#search-bar {
+    height: 35px;
+}
+
+@media (min-width: 1297px) {
+    .card-grid {
+        display: grid;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
+        grid-template-columns: 6fr 6fr 6fr;
+        place-items: flex-start;
+        margin-top: 3%;
+        grid-gap: 55px;
+    }
+
+    #small-card {
+        margin: 3px;
+    }
+
+    #input-prod {
+        padding: 0%;
+    }
+
+    .icon-photo {
+        height: auto;
+        width: 103%;
+        padding: 12px;
+    }
+} 

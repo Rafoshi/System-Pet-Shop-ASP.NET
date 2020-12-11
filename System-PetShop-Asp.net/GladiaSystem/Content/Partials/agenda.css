@@ -1,0 +1,269 @@
+﻿.page-content{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+}
+
+#tableBorder {
+    font: 500 1.4rem Mulish;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.table {
+    background-color: white;
+    border: 1px;
+    border-color: var(--border-color);
+}
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+
+.create {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    width: auto;
+    margin-left: 0%;
+}
+.overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.table td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.create:hover {
+    cursor: pointer;
+}
+
+.create:active {
+
+}
+
+#plus {
+    margin-right: 14px;
+    cursor: pointer;
+    z-index: 1;
+    margin-left: -4px;
+}
+
+.cta {
+  position: relative;
+  margin: auto;
+  padding: 19px 22px;
+  transition: all .2s ease;
+}
+
+.cta:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    border-radius: 28px;
+    background: var(--create-button-color);
+    width: 56px;
+    height: 56px;
+    transition: all .3s ease;
+}
+
+.cta span {
+  position: relative;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 900;
+  letter-spacing: .25em;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+.cta svg {
+  position: relative;
+  top: 0;
+  margin-left: 10px;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #111;
+  stroke-width: 2;
+  transform: translateX(-5px);
+  transition: all .3s ease;
+}
+
+.cta:hover:before {
+    width: 100%;
+    background: var(--create-button-color);
+}
+
+.cta:hover svg {
+  transform: translateX(0);
+}
+
+.cta:active {
+  transform: scale(0.96);
+}
+
+#create-text {
+    font-size: 1.6rem;
+    cursor: pointer;
+    margin-bottom: 4px;
+}
+
+.modal-content {
+    height: 90vh;
+}
+
+#exampleModalLabel{
+    font-size: 2.5rem;
+}
+
+#btn-create-modal{
+    font-size: 2rem;
+}
+
+#btn-cancel-modal{
+    font-size: 2rem;
+}
+
+.modal-body {
+    font-size: 2rem;
+}
+
+.agenda {
+    height: 100%;
+    width: 90vw;
+    background: white;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.header{
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-around;
+    height: 5vh;
+}
+
+.header h4 {
+    margin-top: 2vh;
+    font: 700 1.8rem Mulish;
+    color: var(--secondary-text-color);
+}
+
+
+.item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.item .status {
+    width: 10px;
+}
+
+.item .delete{
+    width: 10px;
+}
+
+.client {
+    margin-left: -3%;
+}
+
+.pet {
+    margin-right: 5%;
+}
+
+.date {
+}
+
+.delete{
+    margin-right: 9%;
+}
+
+.item p{
+    font: 600 1.4rem Mulish;
+    color: var(--primary-text-color);
+}
+
+.hr {
+    width: 100%;
+    height: 1px;
+    background: var(--border-color);
+}
+
+#a-agenda {
+    display: flex
+}
+
+
+@media (min-width: 580px) {
+    .agenda{
+        width: auto;
+        margin: 0;
+        justify-self: 0;
+    }
+}
+
+@media (min-height: 330px) {
+    .header h4{
+        font-size: 1.4rem;
+    }
+}
+@media (min-width: 1297px) {
+
+    #create-button{
+        margin-left: 0;
+    }
+
+    .modal-content {
+        height: auto;
+    }
+
+    .item {
+        padding-top: 15px;
+    }
+
+    .item .status {
+        width: 20px;
+    }
+
+    .item .delete {
+        width: 20px;
+    }
+
+    .header .status {
+        margin-left: -2%;
+    }
+
+    .header .cli {
+        margin-left: 3%;
+        margin-right: 6%;
+    }
+
+    #date {
+        margin-right: 22%;
+    }
+    .overflow {
+        width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+}

@@ -1,0 +1,66 @@
+﻿@model GladiaSystem.Models.User
+@{
+    ViewBag.Title = "Cadastrar Adminstrador ";
+    ViewBag.Selected = "adm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    @using (Html.BeginForm("CadAdm", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <fieldset>
+            <legend>
+                Dados do administrador
+            </legend>
+
+            <hr class="form-hr" />
+            @if (TempData.ContainsKey("Error"))
+            {
+                <div>
+                    <p class="error-red"><strong>Erro:</strong> @TempData["Error"].ToString()</p>
+                </div>
+            }
+            @if (TempData.ContainsKey("Success"))
+            {
+                <div>
+                    <p class="success-green"><strong>Sucesso:</strong> @TempData["Success"].ToString()</p>
+                </div>
+            }
+            <div class="input-block">
+                <label for="name">Nome completo</label>
+                @Html.EditorFor(model => model.name)
+                @Html.ValidationMessageFor(m => m.name, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                <label for="avatar">
+                    Email
+                </label>
+                @Html.EditorFor(model => model.email)
+                @Html.ValidationMessageFor(m => m.email, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="input-block">
+                <label for="senha">
+                    Senha
+                </label>
+                @Html.EditorFor(model => model.password)
+                @Html.ValidationMessageFor(m => m.password, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="textarea-block">
+                <div class="up-img">
+                    <img src="~/Content/Imagens/up-img.svg" id="up-photo" alt="Upload img" />
+
+                    <label for="files" class="btn">Envie sua foto</label>
+                    <input id ="files" type="file" name="imgFile" alt="Enviar" style="visibility: hidden;" required>
+                </div>
+            </div>
+
+            <button class="sub-button" type="submit">Cadastrar</button>
+        </fieldset>
+        @section Scripts{
+            @Scripts.Render("~/bundles/jqueryval");
+        }
+    }
+</main>
