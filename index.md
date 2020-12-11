@@ -1,6 +1,5 @@
 ## Dom Tchochoro ASP.NET Web System
 
-```
 <h1 align="center">
     <img alt="Dom Tchochoro" src="https://i.imgur.com/Sf1ISZG.png" width="200px" />
 </h1>
