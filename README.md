@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Dom Tchochoro" src=".github/logo.png" width="200px" />
+    <img alt="Dom Tchochoro" src=".github/Logo.png" width="200px" />
 </h1>
 
 <br>
