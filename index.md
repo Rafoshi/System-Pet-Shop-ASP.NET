@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Dom Tchochoro ASP.NET Web System
 
-You can use the [editor on GitHub](https://github.com/Rafoshi/System-Pet-Shop-ASP.NET/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center">
+    <img alt="Dom Tchochoro" src=".github/Logo.png" width="200px" />
+</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+<p align="center">
+  <img alt="Dom Tchochoro" src=".github/Login.jpg" width="70%">
+  <img alt="Dom Tchochoro" src=".github/Home.jpg" width="70%">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Dom Tchochoro
 
-```markdown
-Syntax highlighted code block
+## 📖 About The Projeto
+It's a system web to manage a Pet Shop.
 
-# Header 1
-## Header 2
-### Header 3
+✔ Features 
+------------
+- Two Level of access <br/>
+- CRUD Mysql  <br/>
+- An agenda to schedule baths and shears for your dog 🐕<br/>
+- An point of sale <br/>
+- SVG animations
 
-- Bulleted
-- List
+## 🚀 Technologies
+This project uses this features:
 
-1. Numbered
-2. List
+- [Cleave.js](https://nosir.github.io/cleave.js/)
+- [MySql](https://www.nuget.org/packages/MySql.Data/)
+- [Bootstrap](https://getbootstrap.com)
 
-**Bold** and _Italic_ and `Code` text
+## ⚙ Database
+It's a Mysql database, the script is named "db_gladia.sql".
 
-[Link](url) and ![Image](src)
-```
+▶ Getting Started
+---------------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Download the code.
+2. Open the code in Microsoft Visual Studio.
+3. Run the script on MySql.
+4. Run the web system.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rafoshi/System-Pet-Shop-ASP.NET/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 💻 Layout
+You can see the design layout on the Figma link bellow: 
+<br>
+[Figma Link](https://www.figma.com/file/UJFXTSXoJaS9ppkDxmkcHd/Asp-net?node-id=0%3A1)
