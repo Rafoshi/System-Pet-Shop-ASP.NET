@@ -19,7 +19,7 @@ It's a system web to manage a Pet Shop.
 - Two Level of access <br/>
 - CRUD Mysql  <br/>
 - An agenda to schedule baths and shears for your dog 🐕<br/>
-- An point of sale <br/>
+- A point of sale <br/>
 - SVG animations
 
 ## 🚀 Technologies
